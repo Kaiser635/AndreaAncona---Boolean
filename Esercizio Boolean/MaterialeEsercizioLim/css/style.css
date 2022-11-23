@@ -1,0 +1,120 @@
+/*Immagine di background*/
+body {
+  background-image: url(/img/background.jpg);
+  background-size: cover;
+}
+
+/*Sfondo e dimensioni del form*/
+#form {
+  background-color: rgba(0, 0, 0, 0.501);
+  width: 900px;
+  margin: 30px auto;
+  height: 700px;
+  border-radius: 20px;
+}
+/*LOGO*/
+#form img {
+  width: 180px;
+  margin: 72px 360px 0px;
+}
+
+/*Sezione button*/
+#form h2 {
+  color: rgb(26, 230, 7);
+  text-align: center;
+  margin: 2px auto;
+}
+
+#prenota {
+  background-color: rgb(26, 230, 7);
+  width: 750px;
+
+  margin: 0 auto;
+}
+
+#prenota .pre {
+  margin: 7px 0px 7px 248px;
+}
+
+#prenota button {
+  font-size: 10px;
+  padding: 2px;
+}
+
+/*Sezione input 1*/
+#check01 {
+  margin-left: 75px;
+  margin-top: 25px;
+  color: white;
+}
+
+#check01 span {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 3px;
+}
+
+#check01 p {
+  margin: 3px;
+  font-style: italic;
+}
+
+#check01 .carica {
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  width: 290px;
+  padding: 5px;
+}
+
+/*Sezione input 2*/
+#check02 {
+  margin-left: 75px;
+  margin-top: 25px;
+  color: white;
+}
+
+#check02 span {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 3px;
+}
+
+#check02 p {
+  margin: 3px;
+  font-style: italic;
+}
+
+#check02 .carica_verde {
+  background-color: rgb(26, 230, 7);
+  border: none;
+  border-radius: 5px;
+  width: 490px;
+  padding: 5px;
+}
+
+/*Sezione input 3*/
+#check03 {
+  margin-left: 75px;
+  margin-top: 25px;
+  color: white;
+}
+
+#check03 span {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 3px;
+}
+
+#check03 p {
+  margin: 3px;
+  font-style: italic;
+}
+
+#check03 .carica_rossa {
+  background-color: rgba(147, 27, 27, 0.948);
+  border: none;
+  border-radius: 5px;
+  width: 90px;
+  padding: 5px;
+}
